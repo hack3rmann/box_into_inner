@@ -5,5 +5,6 @@ edition = "2024"
 license = "MIT"
 authors = ["Varov Svyatoslav <slava-varov3@mail.ru>"]
 repository = "https://www.github.com/hack3rmann/box_into_inner"
+description = "Box::into_inner"
 
 [dependencies]
