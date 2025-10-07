@@ -1,0 +1,9 @@
+[package]
+name = "box_into_inner"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+authors = ["Varov Svyatoslav <slava-varov3@mail.ru>"]
+repository = "https://www.github.com/hack3rmann/box_into_inner"
+
+[dependencies]
